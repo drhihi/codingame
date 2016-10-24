@@ -30,6 +30,5 @@ class Player {
             }
             System.out.println(hMountainIndex); // The index of the mountain to fire on.
         }
-        in.close();
     }
 }
